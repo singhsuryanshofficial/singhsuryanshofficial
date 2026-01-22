@@ -16,12 +16,12 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful bu
 - **Business Insights & Visualization**
 
 ### 📊 Featured Project
-🔹 **Consumer Insights & Revenue Performance Analytics**  
-End-to-end analytics project covering:
-- Data cleaning & feature engineering  
-- SQL business logic development  
-- Interactive Power BI dashboard  
-- Executive-level reporting  
+
+**Consumer Insights & Revenue Performance Analytics**  : End-to-end analytics project covering:
+  - Data cleaning & feature engineering  
+  - SQL business logic development  
+  - Interactive Power BI dashboard  
+  - Executive-level reporting  
 
 👉 View project in my repositories.
 
