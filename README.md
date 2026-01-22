@@ -10,7 +10,8 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful bu
 
 ### 🛠 Skills
 - **SQL** (MySQL)
-- **Python** (Pandas, NumPy, Matplotlib)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Microsoft Excel**
 - **Power BI** (DAX, Dashboard Design)
 - **Data Analysis & Reporting**
 - **Business Insights & Visualization**
