@@ -26,4 +26,4 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful bu
 👉 View project in my repositories.
 
 ### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/suryanshsinghofficial/
