@@ -48,6 +48,7 @@ Power BI Desktop • Power BI Service • Power BI App • SQL • Python
 
 
 
+--- 
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/suryanshsinghofficial/
