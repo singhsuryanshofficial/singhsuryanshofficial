@@ -38,7 +38,7 @@ The project covers the complete analytics lifecycle — from data preparation an
 Power BI Desktop • Power BI Service • Power BI App • SQL • Python  
 
 🔗 **Project Repository:**  
-`consumer-behavior-analytics`
+https://github.com/singhsuryanshofficial/churn-and-retention-analytics
 
 ---
 
