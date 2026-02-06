@@ -56,9 +56,9 @@ https://github.com/singhsuryanshofficial/consumer-behavior-analytics
 
 ![Cover Page](https://raw.githubusercontent.com/singhsuryanshofficial/churn-and-retention-analytics/main/Dashboard%20Screenshots/Dashboard%20Page%20-%20Cover.png)
 
-![Churn Analysis](https://raw.githubusercontent.com/singhsuryanshofficial/churn-and-retention-analytics/main/Dashboard%20Page%201.png)
+![Churn Analysis](https://raw.githubusercontent.com/singhsuryanshofficial/churn-and-retention-analytics/main/Dashboard%20Screenshots/Dashboard%20Page%201.png)
 
-![Retention Analysis Dashboard](https://raw.githubusercontent.com/singhsuryanshofficial/churn-and-retention-analytics/main//Dashboard%20Page%202.png)
+![Retention Analysis Dashboard](https://raw.githubusercontent.com/singhsuryanshofficial/churn-and-retention-analytics/main/Dashboard%20Screenshots/Dashboard%20Page%202.png)
 
 Built an **end-to-end churn and retention analytics solution** using Power BI on a bank customer dataset of **10,000 customer records**, focusing on identifying churn risk segments, retention drivers, and actionable strategies to improve customer stability.
 
