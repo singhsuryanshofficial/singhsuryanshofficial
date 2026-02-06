@@ -78,7 +78,7 @@ https://github.com/singhsuryanshofficial/churn-and-retention-analytics
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/suryanshsinghofficial/
+**LinkedIn:** https://www.linkedin.com/in/suryanshsinghofficial/
 
 ---
 
